@@ -1,4 +1,4 @@
-// Subsets (https://leetcode.com/problems/subsets/)
+// N Queens(https://leetcode.com/problems/n-queens/)
 
 // Time Complexity: O(n!)
 // Space Complexity: O(n)
